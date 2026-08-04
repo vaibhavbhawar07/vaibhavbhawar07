@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vaibhavbhawar07/vaibhavbhawar07/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/vaibhavbhawar/vaibhavbhawar07output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=vaibhavbhawar07&label=Profile+Views&color=blue&style=for-the-badge"/>
