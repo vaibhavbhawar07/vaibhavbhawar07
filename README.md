@@ -19,6 +19,3 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavbhawar07&theme=tokyo-night"/>
-</p>
